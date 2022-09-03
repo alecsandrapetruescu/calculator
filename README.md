@@ -24,6 +24,7 @@ Command line application with Spring Boot
 
 > java -jar calculator-0.0.1-SNAPSHOT.jar 1 / 2
 ```
+### [How to use with Docker?](./src/main/docker/README.md)
 ### How to update?
 ```
 # Update Maven wrapper
