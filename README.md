@@ -10,6 +10,7 @@ Command line application with Spring Boot
 ```
 # Build the jar.
 > mvn clean compile package
+> cd target
 
 # Execute the jar with arguments:
 # java -jar calculator-0.0.1-SNAPSHOT.jar firstNumber operation secondNumber
