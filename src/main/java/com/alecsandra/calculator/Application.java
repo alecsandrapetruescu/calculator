@@ -47,7 +47,7 @@ public class Application implements CommandLineRunner {
     private int getNumber(String number) {
         int convertNumber;
         try {
-            convertNumber = Integer.valueOf(number);
+            convertNumber = Integer.parseInt(number);
         } catch (NumberFormatException nfe) {
             convertNumber = 0;
         }
