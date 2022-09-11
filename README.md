@@ -2,6 +2,7 @@
 Command line application with Spring Boot
 
 [![Build](https://github.com/alecsandrapetruescu/calculator/actions/workflows/maven.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/maven.yml)
+
 ### Requirements
 - [Maven 3.8.5](https://maven.apache.org/index.html)
 - [Java 11](https://openjdk.org/projects/jdk/11/)
