@@ -4,6 +4,7 @@ Command line application with Spring Boot
 [![Build](https://github.com/alecsandrapetruescu/calculator/actions/workflows/maven.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/maven.yml)
 [![Docker Image Build](https://github.com/alecsandrapetruescu/calculator/actions/workflows/docker-image.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/docker-image.yml)
 [![CodeQL](https://github.com/alecsandrapetruescu/calculator/actions/workflows/codeql.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/codeql.yml)
+[![Dependency Review](https://github.com/alecsandrapetruescu/calculator/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/dependency-review.yml)
 ### Requirements
 - [Maven 3.8.5](https://maven.apache.org/index.html)
 - [Java 11](https://openjdk.org/projects/jdk/11/)
