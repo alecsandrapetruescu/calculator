@@ -3,7 +3,7 @@ with Spring Boot
 
 ### Requirements
 - [Maven 3.8.5](https://maven.apache.org/index.html)
-- [Java 11](https://openjdk.org/projects/jdk/11)
+- [Java 21](https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html)
 - [Docker](https://www.docker.com)
 ### How to use?
 ```
