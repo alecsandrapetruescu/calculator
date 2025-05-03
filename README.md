@@ -7,9 +7,9 @@ Command line application with Spring Boot
 [![Dependency Review](https://github.com/alecsandrapetruescu/calculator/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/dependency-review.yml)
 ### Requirements
 - [Maven 3.8.5](https://maven.apache.org/index.html)
-- [Java 17](https://access.redhat.com/documentation/en-us/openjdk/17)
+- [Java 21](https://aws.amazon.com/corretto/)
 ### Application uses
-- [Spring Boot 3.0.2](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.introducing-spring-boot)
+- [Spring Boot 3.4.x](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.introducing-spring-boot)
 ### How to use?
 ```
 # Build the jar.
