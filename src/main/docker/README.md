@@ -2,7 +2,7 @@
 with Spring Boot
 
 ### Requirements
-- [Maven 3.8.5](https://maven.apache.org/index.html)
+- [Maven 3.9.9](https://maven.apache.org/index.html)
 - [Java 21](https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html)
 - [Docker](https://www.docker.com)
 ### How to use?

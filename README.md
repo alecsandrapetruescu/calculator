@@ -6,7 +6,7 @@ Command line application with Spring Boot
 [![CodeQL](https://github.com/alecsandrapetruescu/calculator/actions/workflows/codeql.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/codeql.yml)
 [![Dependency Review](https://github.com/alecsandrapetruescu/calculator/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/alecsandrapetruescu/calculator/actions/workflows/dependency-review.yml)
 ### Requirements
-- [Maven 3.8.5](https://maven.apache.org/index.html)
+- [Maven 3.9.9](https://maven.apache.org/index.html)
 - [Java 21](https://aws.amazon.com/corretto/)
 ### Application uses
 - [Spring Boot 3.4.x](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.introducing-spring-boot)
@@ -32,6 +32,6 @@ Command line application with Spring Boot
 ### How to update?
 ```
 # Update Maven wrapper
-> mvn wrapper:wrapper -Dmaven=3.8.5
+> mvn wrapper:wrapper -Dmaven=3.9.9
 ```
 ### [Code of conduct](https://raw.githubusercontent.com/eclipse/.github/master/CODE_OF_CONDUCT.md)
